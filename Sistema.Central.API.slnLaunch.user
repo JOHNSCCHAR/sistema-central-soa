@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Sistema.Central.API\\Sistema.Central.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Sistema.Central.Dashboard\\Sistema.Central.Dashboard.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Sistema.Sucursal.WinForms\\Sistema.Sucursal.WinForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
