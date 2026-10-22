@@ -36,9 +36,20 @@ El proyecto implementa los principios fundamentales de SOA:
 
 ## 📸 Capturas del Sistema
 
+---
+
+## 📸 Capturas del Sistema
+
 <p align="center">
-  <b>🔑 Autenticación / Login</b><br>
+  <b>🔑 Autenticación / Login (Interfaz Principal)</b><br>
   <img src="login_SOA_SISE.png" alt="Login SOA SISE" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>🔑 Autenticación / Login (Formulario Nativo)</b><br>
+  <img src="login_form_nativo.png" alt="Login Form Nativo" width="800"/>
 </p>
 
 <br>
@@ -63,9 +74,6 @@ El proyecto implementa los principios fundamentales de SOA:
 </p>
 
 ---
-
-
-
 
 ## 🚀 Requisitos para Ejecución
 
