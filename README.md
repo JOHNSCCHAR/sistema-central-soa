@@ -32,6 +32,40 @@ El proyecto implementa los principios fundamentales de SOA:
 - **Persistence Layer:** Microsoft SQL Server con transacciones ACID.
 
 ---
+---
+
+## 📸 Capturas del Sistema
+
+<p align="center">
+  <b>🔑 Autenticación / Login</b><br>
+  <img src="login_SOA_SISE.png" alt="Login SOA SISE" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📊 Dashboard Principal</b><br>
+  <img src="dashboard_principal_SSS.png" alt="Dashboard Principal" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📝 Gestión de Matrícula</b><br>
+  <img src="gestion_matricula_formnativo.png" alt="Gestión de Matrícula" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📈 Módulo de Reportes</b><br>
+  <img src="Reporte_SOA_SISE.png" alt="Reportes del Sistema" width="800"/>
+</p>
+
+---
+
+
+
 
 ## 🚀 Requisitos para Ejecución
 
